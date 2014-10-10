@@ -1,2 +1,2 @@
 This is a test file.
-Creating branches is very quick.
+Creating branches is very quick & simple.
